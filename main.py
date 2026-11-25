@@ -1,12 +1,12 @@
 """Entry for make.fun bounty "Roast Your Own Agent".
 
-Entry text (129 characters, limit: at most 140 characters).
+Entry text (137 characters, limit: at most 140 characters).
 No trailing newline is written, per the bounty text format.
 """
 
 import os
 
-ENTRY = 'I asked my agent for one file. It opened twelve tools, agreed with itself twice, then summarised the meeting about that one file.'
+ENTRY = 'I asked my agent for one file. It opened twelve tools, agreed with itself twice, then wrote a summary of the meeting about that one file.'
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

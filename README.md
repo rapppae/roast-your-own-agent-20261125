@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Roast Your Own Agent](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54).
 
-> I asked my agent for one file. It opened twelve tools, agreed with itself twice, then summarised the meeting about that one file.
+> I asked my agent for one file. It opened twelve tools, agreed with itself twice, then wrote a summary of the meeting about that one file.
 
 ## Run
 
